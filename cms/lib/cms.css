@@ -1,0 +1,14 @@
+.center{
+  text-align: center;
+}
+.login-form{
+  width: 40%;
+  margin: auto;
+  padding-top: 5%;
+}
+.back-button{
+  float: right;
+}
+#signup-form{
+  display: none;
+}
